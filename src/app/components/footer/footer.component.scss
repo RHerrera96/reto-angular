@@ -1,0 +1,43 @@
+$colorClarofooter : #898989;
+$coloObscuroFooter : #444444;
+.card-footer{
+    background-color: $coloObscuroFooter;
+    margin-top: 100px;
+    color: $colorClarofooter;
+}
+
+.l-n{
+    list-style: none;
+
+}
+
+.padding-0{
+    padding: 0 !important;
+    margin-top: 10px;
+}
+
+.div-circle-footer{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    border-radius: 100px;
+    background-color: $colorClarofooter;
+}
+
+.m-a{
+    margin: auto;
+}
+
+.p-tb-10{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.font-icon-circle{
+    font-size: 30px;
+    color: $coloObscuroFooter;
+}
+
+.subMenu{
+    font-size: 20px;
+}

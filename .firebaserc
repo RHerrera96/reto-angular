@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "cursoajs": {
+      "hosting": {
+        "reto": [
+          "cursoajs"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "cursoajs"
+  }
+}
